@@ -21,3 +21,4 @@ EXPOSE 8080
 CMD [ "npm", "start" ]
 
 # This is dummy change for git demo
+Devops is a part of my life.
