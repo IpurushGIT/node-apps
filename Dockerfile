@@ -1,6 +1,9 @@
 FROM node:16
 
+GDHJAdaDH
 
+
+Jgjsd
 
 # Create app directory
 WORKDIR /usr/src/app
@@ -12,7 +15,10 @@ COPY package*.json ./
 
 RUN npm install
 # If you are building your code for production
-# RUN npm install --only=production
+# RUN npm install --only=production HSGHFJSFS/DHSAUADJSD
+VVCJH
+
+HUSADGDUA
 
 # Bundle app source
 COPY . .
